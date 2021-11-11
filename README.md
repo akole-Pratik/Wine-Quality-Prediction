@@ -31,3 +31,4 @@ quality:- numeric: from 0 to 10, the output target
 3) SVM
 
 # Deployment
+![Screenshot (41)](https://user-images.githubusercontent.com/81501071/141302310-0b444698-1c45-45c5-89b3-3a46117f59fc.png)
